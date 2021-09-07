@@ -12,4 +12,4 @@ If there is any upstream connection established, you can use 'git pull' without 
 ## Resources
 - [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 ---
-[Back to home](./README.md)
+[Back to home](../README.md)

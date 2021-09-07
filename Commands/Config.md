@@ -14,4 +14,4 @@ For more information, view the [first time git setup](http://git-scm.com/book/en
 ## Resources
 - [Git Config Documentation](https://git-scm.com/docs/git-config)
 ---
-[Back to home](./README.md)
+[Back to home](../README.md)
